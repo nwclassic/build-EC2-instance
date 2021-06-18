@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 1a d0 7e 5f ae 64 9e-15 37 01 17 f9 f0 78 bd</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Ubuntu 64-bit Server 20.04.2.vmx</vmxPathName></VM></Foundry>
